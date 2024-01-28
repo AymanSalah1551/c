@@ -1,0 +1,322 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1706298440;s:6:"expire";i:1706384840;s:4:"tags";s:111:"f73_CAT_P,f73_BLOCK_HTML,f73_CAT_P_37,f73_CAT_P_36,f73_CAT_P_21,f73_CAT_P_20,f73_CAT_P_19,f73_CAT_P_18,f73_MAGE";}
+            <div class="owl-button-top above-padding below-padding block widget block-products-list grid">
+                    <div class="page-title-main">
+                <strong>Featured Products</strong>
+            </div>
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <div class="slider-outer">
+                    <ol style="margin-bottom: 0;" class="product-widget-slider products list items product-items widget-product-grid">
+                                                                            <li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/adata-sd700-3d-nand-512gb-ssd-portable-external-solid-state-drive-yellow.html" class="product-item-photo ">
+                                                                               <img class="hello" src="http://localhost/media/catalog/product/cache/93f7c7f2cf5814242e765d0aa2abb799/9/0/90yh03h0-b2ua00-3.gif" alt="HeadPhones" />
+                                      
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":37,"uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"37","uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="HeadPhones" href="http://localhost/adata-sd700-3d-nand-512gb-ssd-portable-external-solid-state-drive-yellow.html" class="product-item-link">
+                                            HeadPhones                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="37" data-price-box="product-id-37">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-37-widget-product-grid"                data-price-amount="22.5"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">KWD 22.50</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8~\/product\/37\/","data":{"product":"37","uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/adata-sd700-3d-nand-512gb-ssd-portable-external-solid-state-drive-black.html" class="product-item-photo ">
+                                                                               <img class="hello" src="http://localhost/media/catalog/product/cache/93f7c7f2cf5814242e765d0aa2abb799/9/0/90gc00e0-msg010-5.gif" alt="Gaming Chair" />
+                                      
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":36,"uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"36","uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Gaming Chair" href="http://localhost/adata-sd700-3d-nand-512gb-ssd-portable-external-solid-state-drive-black.html" class="product-item-link">
+                                            Gaming Chair                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="36" data-price-box="product-id-36">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-36-widget-product-grid"                data-price-amount="22.5"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">KWD 22.50</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8~\/product\/36\/","data":{"product":"36","uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/adata-ur340-32gb-usb-flash-drive-black.html" class="product-item-photo ">
+                                                                               <img class="hello" src="http://localhost/media/catalog/product/cache/93f7c7f2cf5814242e765d0aa2abb799/a/r/aroy-ur340-32gbk-8.gif" alt="ADATA - UR340 - 32GB - USB Flash Drive - Black" />
+                                      
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":21,"uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"21","uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="ADATA - UR340 - 32GB - USB Flash Drive - Black" href="http://localhost/adata-ur340-32gb-usb-flash-drive-black.html" class="product-item-link">
+                                            ADATA - UR340 - 32GB - USB Flash Drive - Black                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="21" data-price-box="product-id-21">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-21-widget-product-grid"                data-price-amount="2.9"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">KWD 2.90</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8~\/product\/21\/","data":{"product":"21","uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/adata-ur340-128gb-usb-flash-drive-black.html" class="product-item-photo ">
+                                                                               <img class="hello" src="http://localhost/media/catalog/product/cache/93f7c7f2cf5814242e765d0aa2abb799/s/s/ssssssczfh221_2_5.gif" alt="ADATA - UR340 - 128GB - USB Flash Drive  - Black " />
+                                      
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":20,"uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"20","uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="ADATA - UR340 - 128GB - USB Flash Drive  - Black " href="http://localhost/adata-ur340-128gb-usb-flash-drive-black.html" class="product-item-link">
+                                            ADATA - UR340 - 128GB - USB Flash Drive  - Black                                         </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="20" data-price-box="product-id-20">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-20-widget-product-grid"                data-price-amount="4.5"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">KWD 4.50</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8~\/product\/20\/","data":{"product":"20","uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/streamplify-cam-fhd-60fps-webcam.html" class="product-item-photo ">
+                                                                               <img class="hello" src="http://localhost/media/catalog/product/cache/93f7c7f2cf5814242e765d0aa2abb799/s/p/spcw-czfh221_2.gif" alt="Streamplify CAM FHD 60FPS Webcam" />
+                                      
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":19,"uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"19","uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Streamplify CAM FHD 60FPS Webcam" href="http://localhost/streamplify-cam-fhd-60fps-webcam.html" class="product-item-link">
+                                            Streamplify CAM FHD 60FPS Webcam                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="19" data-price-box="product-id-19">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-19-widget-product-grid"                data-price-amount="17.8"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">KWD 17.80</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8~\/product\/19\/","data":{"product":"19","uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-slider product-item">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://localhost/dscdcsd.html" class="product-item-photo ">
+                                                                               <img class="hello" src="http://localhost/static/version1706025650/frontend/Hiddentechies/bizkick/en_US/Magento_Catalog/images/product/placeholder/image.jpg" alt="dscdcsd" />
+                                      
+                                                                            </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#" data-post='{"action":"http:\/\/localhost\/wishlist\/index\/add\/","data":{"product":18,"uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/catalog\/product_compare\/add\/","data":{"product":"18","uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="dscdcsd" href="http://localhost/dscdcsd.html" class="product-item-link">
+                                            dscdcsd                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="18" data-price-box="product-id-18">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-18-widget-product-grid"                data-price-amount="34"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">KWD 34.00</span></span>
+        </span>
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/localhost\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC8~\/product\/18\/","data":{"product":"18","uenc":"aHR0cDovL2xvY2FsaG9zdC8~"}}' type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                            </li>                                            </ol>
+                </div>
+            </div>
+                    </div>
+    </div>
+    <script type="text/javascript" xml="space">
+        require(['jquery', 'bizkickowlcarousel'], function() {
+            jQuery(document).ready(function() {
+                jQuery(".product-widget-slider").owlCarousel({
+                    items: 5,
+                    itemsDesktop: [1199, 4],
+                    itemsDesktopSmall: [991, 4],
+                    itemsTablet: [767, 3],
+                    itemsTabletSmall: [639, 3],
+                    itemsMobile: [479, 2],
+                    pagination: false,
+                    navigationText: ["<div class='left-arrow'><i class='fa fa-angle-left'></i></div>", "<div class='right-arrow'><i class='fa fa-angle-right'></div>"],
+                    navigation: true,
+                });
+            });
+            jQuery(window).load(function() {
+                jQuery('.product-widget-slider .product-slider').show();
+            });
+        });
+    </script>

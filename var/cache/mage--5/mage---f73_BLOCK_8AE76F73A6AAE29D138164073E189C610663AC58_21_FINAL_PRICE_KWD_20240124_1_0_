@@ -1,0 +1,15 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1706046267;s:6:"expire";i:1706132667;s:4:"tags";s:46:"f73_BLOCK_HTML,f73_CAT_P_21,f73_CAT_P,f73_MAGE";}
+<div class="price-box price-final_price" data-role="priceBox" data-product-id="21" data-price-box="product-id-21">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+         itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+        <span  id="product-price-21"                data-price-amount="2.9"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">KWD 2.90</span></span>
+                <meta itemprop="price" content="2.9" />
+        <meta itemprop="priceCurrency" content="KWD" />
+    </span>
+
+</div>

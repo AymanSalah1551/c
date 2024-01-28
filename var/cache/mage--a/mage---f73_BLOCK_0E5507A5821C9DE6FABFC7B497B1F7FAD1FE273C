@@ -1,0 +1,9 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1706087134;s:6:"expire";i:1706090734;s:4:"tags";s:71:"f73_BLOCK_HTML,f73_CAT_C,f73_CAT_C_13,f73_CAT_C_3,f73_CAT_C_10,f73_MAGE";}
+<nav class="navigation" role="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+                    <li class = "level0 level-top ">
+                <a class = "level-top" href = "http://localhost/">
+                    Home                </a>
+            </li>
+                <li  class="level0 nav-1 category-item first level-top"><a href="http://localhost/flash-drives.html"  class="level-top" ><span>Flash Drives</span></a></li><li  class="level0 nav-2 category-item has-active level-top parent"><a href="http://localhost/accessories.html"  class="level-top" ><span>Accessories</span></a><ul class="level0 submenu"><li  class="level1 nav-2-1 category-item first has-active parent"><a href="http://localhost/accessories/cameras.html" ><span>Cameras</span></a><ul class="level1 submenu"><li  class="level2 nav-2-1-1 category-item first active last"><a href="http://localhost/accessories/cameras/web-camers.html" ><span>Web Camers</span></a></li></ul></li><li  class="level1 nav-2-2 category-item last"><a href="http://localhost/accessories/chairs.html" ><span>Chairs</span></a></li></ul></li><li  class="level0 nav-3 category-item last level-top parent"><a href="http://localhost/pc-components.html"  class="level-top" ><span>PC COMPONENTS </span></a><ul class="level0 submenu"><li  class="level1 nav-3-1 category-item first"><a href="http://localhost/pc-components/ssd-hdd.html" ><span> SSD &amp; HDD</span></a></li><li  class="level1 nav-3-2 category-item last"><a href="http://localhost/pc-components/computer-memory.html" ><span> COMPUTER MEMORY</span></a></li></ul></li>    </ul>
+</nav>
